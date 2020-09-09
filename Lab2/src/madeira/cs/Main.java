@@ -35,7 +35,7 @@ public class Main {
         System.out.println ("Please enter my age in years to find out how many days I have been alive.");
         Scanner myScanner3 = new Scanner (System.in);
         String ScannerString2 = myScanner3.nextLine();
-        System.out.println ("I am " +ScannerString2+ " years old and I have been alive for approximately 5870 days." );
+        System.out.println ("I am " +ScannerString2+ " years old and I have been alive for approximately 5,885 days." );
 
     }
 }
