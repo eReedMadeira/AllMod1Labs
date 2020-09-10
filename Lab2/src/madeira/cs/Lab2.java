@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Author: Eliza_Reed
  * Date: 9/8/2020
  **/
-public class Main {
+public class Lab2 {
     public static void main(String[] args) {
         /*
             Instructions for Use
