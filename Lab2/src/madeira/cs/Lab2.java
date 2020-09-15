@@ -8,6 +8,11 @@ import java.util.Scanner;
  * Date: 9/8/2020
  **/
 public class Lab2 {
+    /*
+        Grades and comments below
+        8.75/10
+        Good work. With the last part the goal was to actually calculate the value in the program.
+     */
     public static void main(String[] args) {
         /*
             Instructions for Use
@@ -32,6 +37,7 @@ public class Lab2 {
         System.out.println ("The Last Great American Dynasty is my favorite song by " +ScannerString +".");
 
         // Part III code below
+        // FIXME: The goal here is to calculate the number of days by multiplying 365 * years :(
         System.out.println ("Please enter my age in years to find out how many days I have been alive.");
         Scanner myScanner3 = new Scanner (System.in);
         String ScannerString2 = myScanner3.nextLine();
