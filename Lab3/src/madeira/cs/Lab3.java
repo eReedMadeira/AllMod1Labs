@@ -1,8 +1,21 @@
 package madeira.cs;
-
+// eReed
 import java.util.Scanner;
 
 public class Lab3 {
+
+    /*
+        Grade and comments below
+        ------------------------
+        Some notes of improvement:
+            - I would try to check for upper/lowercase versions of the month
+            - You could ask the user for the current date to eliminate the large number of
+            cases in part III
+        All in all: excellent. Love the comments and attention to detail
+
+        10/10
+        
+    */
 
     public static void main(String[] args) {
 	 /*
