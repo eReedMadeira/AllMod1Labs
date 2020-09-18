@@ -1,7 +1,12 @@
 package madeira.cs;
 
 public class Lab1 {
-
+    /*
+        Grades and comments
+        10/10
+        Awesome. Extensive use of string methods. Go you!
+        Extra points next time for some descriptive comments!
+     */
     public static void main(String[] args) {
 
                /*
