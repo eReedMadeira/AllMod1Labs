@@ -25,6 +25,16 @@ import java.util.Scanner;
 
 public class Superlab {
     public static void main(String[] args) {
+        /*
+
+            Eliza -
+            This is super work! You made appropriate use of class methods
+            and provided clear instructions to the user. Only suggestions are:
+            1. Make more use of loops to cut down on the amount of code
+            2. Use dynamic objects (i.e. Arrays of objects) rather than constructing many
+
+            Regardless, you should be proud of this...proper programming!   
+        */
 
         // Creating an instance of Artist for each artist
         Artist billieEilish = new Artist();
@@ -35,7 +45,7 @@ public class Superlab {
 
         try {
             // Creating a new file - the artistlist.txt file with the information in it
-            File artistFile = new File ("C:\\Users\\user\\Desktop\\IntroToCS\\AllMod1Labs\\artistlist.txt");
+            File artistFile = new File ("C:\\Users\\Peter Wallace Local\\Downloads\\artistList.txt");
 
             // Creating a scanner to read the file
             Scanner fileReader = new Scanner(artistFile);
